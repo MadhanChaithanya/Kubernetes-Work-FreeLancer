@@ -5,7 +5,7 @@ metadata:
  name: nginx-deployment
  labels:
   app: nginx
-  author: intelliqit
+  author: Chaithanya
 spec:
  replicas: 3
  selector:
